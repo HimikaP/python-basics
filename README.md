@@ -15,3 +15,5 @@ The order of files is
 3. [Numpy](https://github.com/HimikaP/python-basics/blob/main/Py-nb/Numerical%20Computing%20with%20Numpy.ipynb)
 4. [Pandas part 1](https://github.com/HimikaP/python-basics/blob/main/Py-nb/Pandas-part1.ipynb)
 5. [Pandas part 2](https://github.com/HimikaP/python-basics/blob/main/Py-nb/Pandas-part2.ipynb)
+
+To run these notebooks, either you can fork the code or download these files and run them using anaconda navigator or CLI .
