@@ -6,4 +6,4 @@ this is a collection of my learnings while learning data analytics
 Click on Py-nb (python/jupiter notebook)
 
 The order of files is 
-1. (Basics)[https://github.com/HimikaP/python-basics/blob/main/Py-nb/basics-of-python.ipynb]
+1. [Basics](https://github.com/HimikaP/python-basics/blob/main/Py-nb/basics-of-python.ipynb)
